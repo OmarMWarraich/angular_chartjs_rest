@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Acknowledgements
+
+[Freecodecamp](https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/)for the tutorial on how to integrate chart.js in Angular using data from a REST API.

@@ -11,11 +11,11 @@ const httpOptions = {
 };
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class ChartService {
   private baseUrl = 'https://api.coinranking.com/v2/coins';
-  private proxyUrl = 'https://cors-anywhere.herokuapp.com';
+  private proxyUrl = 'https://cors-anywhere.herokuapp.com/';
 
   constructor(private http: HttpClient) { }
 
